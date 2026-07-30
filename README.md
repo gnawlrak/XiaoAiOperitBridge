@@ -1,0 +1,2 @@
+# XiaoAiOperitBridge
+通过hook将小米超级小爱的部分无法优秀完成的人物发送给operitai进行执行的lsp模块
