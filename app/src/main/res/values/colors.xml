@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 图标背景色：渐变蓝紫色，代表 AI 连接 -->
+    <color name="ic_launcher_background">#1A73E8</color>
+</resources>
